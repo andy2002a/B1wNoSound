@@ -4,13 +4,13 @@ This file disables unwanted sounds on the B1W Mini Wi-Fi Dashcam. The dash cam w
 
 1. Place the `sound.bin` file on the root of your MicroSD card.
 2. Plug in the dash cam and wait a few seconds
-3. the `sound.bin` file will be automatically deleted
+3. The `sound.bin` file will be automatically deleted
 
 ## Sounds Removed
 
 Recording start (hex location: 2d6f0h - 30c50h)
 
-SD Card Detected = (hex location: 38180h - 3E180h)
+SD Card Detected (hex location: 38180h - 3E180h)
 
 System Going Down/System Up (hex location: 51860h - 55ae5h)
 
