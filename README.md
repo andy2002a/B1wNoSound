@@ -23,7 +23,6 @@ System Going Down/System Up (hex location: 51860h - 55ae5h)
 - Lock File
 - Low speed SD Card
 - Recording Stop
-- SD Card Detected
 - Please Insert SD Card
 - SD Card Full
 - Snapshot
